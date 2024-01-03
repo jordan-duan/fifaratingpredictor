@@ -1,4 +1,4 @@
-# FIFA23 Player Rating Prediction Model Development
+# FIFA Player Rating Predictor
 
 ## Overview
 
